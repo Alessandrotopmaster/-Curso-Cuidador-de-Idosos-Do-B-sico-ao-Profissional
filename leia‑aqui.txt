@@ -1,0 +1,5 @@
+Adicione aqui:
+- imagens/ — demonstrações de movimentos, ambientes adaptados e lembretes
+- audio/ — orientações passo a passo e dicas de convívio
+- videos/ — técnicas de higiene, transferência e primeiros socorros
+- provas/ — exercícios e modelos de relatório de acompanhamento
